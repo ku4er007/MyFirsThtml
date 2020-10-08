@@ -1,0 +1,15 @@
+.table{
+  background: gray
+  padding:10px
+}
+
+.table-td{
+
+  background-image: url("https://lms.ithillel.ua/api/lms/files/5f7b5fba4dfca07cdb04ca92");
+  vertical-align: top;
+  padding:10px
+}
+
+/* .undrline{
+  border-bottom: 2px solid maroon
+} */
